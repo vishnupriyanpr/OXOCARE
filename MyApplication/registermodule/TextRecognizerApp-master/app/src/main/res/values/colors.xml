@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_200">#FFB2DFDB</color> <!-- light green -->
+    <color name="green_500">#FF085904</color> <!-- your main green -->
+    <color name="green_700">#FF064B03</color> <!-- darker green -->
+    <color name="teal_200">#FF03DAC5</color> <!-- keep if used elsewhere -->
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#50FFFFFF</color>
+</resources>

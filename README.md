@@ -1,13 +1,13 @@
 # OXOCARE 💊 – OCR powered Medical Report Assistant App
 
-> _"Revolutionizing medical emergency responses and document scanning with smart AI."_  
+> _"Revolutionizing medical emergency responses and document scanning with smart OCR & Global Patient DB."_  
 > 👨‍⚕️ Co-developed by: **Vishnupriyan P R**, **Vivek K K**, and **Akshaya K**
 
 ---
 
 ## Overview 🚀
 
-**OXOCARE** is a smart AI-powered Android app built to assist during medical emergencies and digitize medical documents with high accuracy.  
+**OXOCARE** is a smart OCR-powered Android app built to assist during medical emergencies and digitize medical documents with high accuracy, maintain records in an global patient db  
 Combining **real-time alerts**, **role-based login**, and **OCR-powered scanning**, it empowers doctors, patients, and staff to handle critical health data faster and more securely than ever.
 
 ---

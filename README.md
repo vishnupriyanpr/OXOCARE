@@ -1,9 +1,12 @@
 # OXOCARE 💊 – OCR powered Medical Report Assistant App
 
 > _"Revolutionizing medical emergency responses and document scanning with smart OCR & Global Patient DB."_  
-> 👨‍⚕️ Co-developed by: **Vishnupriyan P R**, **Vivek K K**, and **Akshaya K**
-
+> 👨‍⚕️ Co-developed by: **Vishnupriyan P R**, **Vivek K K**, and **Akshaya K** <br></br>
+> [![Foo - Bar](https://img.shields.io/badge/Built--on-Kotlin-F06292)](#)
+> ![Maintained - yes](https://img.shields.io/badge/Tech-OCR-darkgreen)
+> ![Contributions - welcome](https://img.shields.io/badge/Database-Mysql-blue)
 ---
+
 
 ## Overview 🚀
 

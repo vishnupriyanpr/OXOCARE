@@ -134,5 +134,34 @@ OXOCARE/
 
 MIT License — Free to use, modify, and scale!
 
-> _Built with 💉 and 💡 by Vishnupriyan P R, Vivek K K, and Akshaya K. For queries or collaborations, raise an issue or connect on GitHub._
+# 🙌 Acknowledgments & Core Team
 
+This project is crafted with passion by *MeshMinds*. We are deeply grateful to our core contributors who poured their expertise and dedication into building UltraCodeAI from the ground up.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vishnupriyanpr">
+        <img src="https://github.com/vishnupriyanpr.png?size=120" width="120px;" alt="Vishnupriyan P R"/>
+        <br />
+        <sub><b>Vishnupriyan P R</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vivek-The-Creator">
+        <img src="https://github.com/Vivek-The-Creator.png?size=120" width="120px;" alt="Vivek K K"/>
+        <br />
+        <sub><b>Vivek K K</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Akshaya1215">
+        <img src="https://github.com/Akshaya1215.png?size=120" width="120px;" alt="Akshaya K"/>
+        <br />
+        <sub><b>Akshaya K</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---

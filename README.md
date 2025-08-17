@@ -136,7 +136,7 @@ MIT License — Free to use, modify, and scale!
 
 # 🙌 Acknowledgments & Core Team
 
-This project is crafted with passion by *MeshMinds*. We are deeply grateful to our core contributors who poured their expertise and dedication into building UltraCodeAI from the ground up.
+This project is crafted with passion by *Fusion Force*. We are deeply grateful to our core contributors who poured their expertise and dedication into building OXOCARE from the ground up.
 
 <table align="center">
   <tr>
